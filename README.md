@@ -26,11 +26,6 @@ This Spring Boot project, named Mediatech, is built on the Spring MVC framework.
   - `com.mediatech.repository/`: Data access layer, including CRUD operations.
   - `com.mediatech.dto/`: Data Transfer Objects used for efficient data exchange.
   - `com.mediatech.exception/`: Exception handling classes.
-## How to Run
-
-1. Clone the repository: `git clone https://github.com/your-username/mediatech-spring-boot.git`
-2. Navigate to the project directory: `cd mediatech-spring-boot`
-3. Build and run the project: `./mvnw spring-boot:run`
 
 ## Technologies Used
 
