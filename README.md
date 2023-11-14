@@ -1,9 +1,8 @@
 
 # Mediatech Spring Boot Project
 
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
-![Java Version](https://img.shields.io/badge/Java-11%2B-blue)
-![Spring Boot Version](https://img.shields.io/badge/Spring%20Boot-2.5.x-green)
+![Java Version](https://img.shields.io/badge/Java-19%2B-green)
+![Spring Version](https://img.shields.io/badge/Spring-3.0.2-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Overview
