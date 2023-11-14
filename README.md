@@ -14,7 +14,7 @@ This Spring Boot project, named Mediatech, is built on the Spring MVC framework.
 - **Exception Handling:** Robust exception handling to ensure a smooth user experience and effective error reporting.
 - **User Management:** Comprehensive user management functionalities, including creation, updating, and deletion of user profiles.
 - **Product Management:** Efficient handling of product-related operations, supporting CRUD operations for product entities.
-- **Invoice Management:** Streamlined management of invoices, allowing for the creation, retrieval of invoices.
+- **Invoice Management:** Streamlined management of invoices, allowing for the creation and retrieval of invoices.
 - **DTOs (Data Transfer Objects):** Usage of DTOs to efficiently transfer data between layers and enhance application performance.
 - **RESTful API:** Implementation of a RESTful API to facilitate communication between different components of the application.
 
